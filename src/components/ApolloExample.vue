@@ -93,7 +93,7 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import FILES from "../graphql/Files.gql";
 import UPLOAD_FILE from "../graphql/UploadFile.gql";
 
